@@ -1,2 +1,5 @@
 /.hg
 /.hgignore
+/.idea
+/.svn
+/mozillapulse.iml
